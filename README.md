@@ -1,4 +1,4 @@
-![image](https://github.com/g0dEngineer/Supersymmetric-Artificial-Neural-Network-External-Contributions/blob/main/supersymmetric%20learning%20-%2010fold%20theory%20proposal_idea.png)
+![image](https://github.com/g0dEngineer/Supersymmetric-Artificial-Neural-Network-External-Contributions/blob/main/__supersymmetric%20learning%20-%2010fold%20theory%20proposal_idea.png)
 
 [A] 2023 image attached (which includes [C] in paragraph 1)
 
