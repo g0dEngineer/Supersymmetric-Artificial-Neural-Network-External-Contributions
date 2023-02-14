@@ -1,3 +1,5 @@
+![image](https://github.com/g0dEngineer/Supersymmetric-Artificial-Neural-Network-External-Contributions/blob/main/supersymmetric%20learning%20-%2010fold%20theory%20proposal_idea.png)
+
 [A] 2023 image attached (which includes [C] in paragraph 1)
 
 Mitchell Porter, a reasonably smart associate of mine otherwise in Physics, recently proposed a reasonably intriguing alternative pathway/idea, to construct what I called a "Supersymmetric Learning Algorithm", i.e. "Supersymmetric Artificial Neural Networks".
