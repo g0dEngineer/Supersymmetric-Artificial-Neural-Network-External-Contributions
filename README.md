@@ -15,3 +15,6 @@ https://openreview.net/pdf?id=Byei_AwYOE
 
 [D] How I met Mitchell 
 https://www.instagram.com/reel/CnktNAPvFU-/
+
+[E] My main repository
+https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network
